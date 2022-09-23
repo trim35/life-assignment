@@ -21,6 +21,15 @@ In a group of twos develop e feature from [this repo](https://github.com/shpatg/
 ### Feature
 - Feature development should consist of a small functionality in javascript
 - It doesn't have to be anything complex
-- Your code should we wrapped into a directory inside the [src](src/) directory
+- Your code should we wrapped into a directory inside the [src](src/) directory.
 - There should also be a `README.md` that explains the feature.
 - **NOTE**: Both of the students should make changes into `README.txt` 
+
+####    Feature Structure
+```
+src
+|_feature-name 
+    |_app.js
+    ...
+    |_README.md    
+```
