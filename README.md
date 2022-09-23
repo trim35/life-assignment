@@ -10,7 +10,7 @@ In a group of twos develop e feature from [this repo](https://github.com/shpatg/
 
 ### Specifications
 
-- For [the repo](https://github.com/shpatg/life-assignment) and create your own copy of this repository
+- Fork [the repo](https://github.com/shpatg/life-assignment) and create your own copy of this repository
 - Clone your copy of the repo 
 - From `develop` branch create your `feature/{feature-name}` branch
 - Develop the [feature](#feature)
